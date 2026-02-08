@@ -1,0 +1,19 @@
+# Company Policy: Remote Work
+
+## Introduction
+This document outlines the remote work policy for AI Innovations Corp.
+
+## Eligibility
+All employees who have completed their 3-month probationary period are eligible for remote work, subject to manager approval.
+
+## Core Hours
+Regardless of location, all employees must be online and available during core hours: 10:00 AM to 4:00 PM EST.
+
+## Equipment
+The company provides a laptop and a $500 home office stipend for eligible employees.
+
+## Security
+Employees must use the company-approved VPN for all work-related activities.
+
+## Contact Information
+For questions regarding this policy, contact HR at hr@ai-innovations.com or visit the internal portal.
