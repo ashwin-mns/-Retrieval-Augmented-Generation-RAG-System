@@ -64,3 +64,9 @@ By scaling to 1600+ data points and implementing an MMR-based retrieval engine, 
 ---
 ### 👨‍💻 Developed by Antigravity
 *Optimizing RAG Accuracy and Data Quality.*
+
+<img width="1919" height="857" alt="Screenshot 2026-02-09 005640" src="https://github.com/user-attachments/assets/a5c30d4f-489f-4e7b-a889-ed0aaa53b6b1" />
+
+
+<img width="362" height="853" alt="Screenshot 2026-02-09 005527" src="https://github.com/user-attachments/assets/6b69d8e9-6ba9-49fb-bdb8-0b0156214078" />
+
