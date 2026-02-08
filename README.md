@@ -62,8 +62,6 @@ By scaling to 1600+ data points and implementing an MMR-based retrieval engine, 
 3. **Expand**: Run `python batch_ingestion.py` to rebuild the 1600+ chunk knowledge base.
 
 ---
-### 👨‍💻 Developed by Antigravity
-*Optimizing RAG Accuracy and Data Quality.*
 
 <img width="1919" height="857" alt="Screenshot 2026-02-09 005640" src="https://github.com/user-attachments/assets/a5c30d4f-489f-4e7b-a889-ed0aaa53b6b1" />
 
